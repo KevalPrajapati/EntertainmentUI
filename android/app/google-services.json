@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1086214047757",
+    "project_id": "entrement-a403b",
+    "storage_bucket": "entrement-a403b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086214047757:android:14da262329991f2a6dad44",
+        "android_client_info": {
+          "package_name": "com.kevu.entrement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086214047757-jskueuvtq4einbjje1fmikp56vei9not.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kevu.entrement",
+            "certificate_hash": "38bc27494ac057fbc43e7f756204e95b9a8e4495"
+          }
+        },
+        {
+          "client_id": "1086214047757-3urmuod5j2h1usmuka8oj1nka4vbnf15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnveHb0Dm1uXfDxsKEE_199nDiYFzSbx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086214047757-3urmuod5j2h1usmuka8oj1nka4vbnf15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
