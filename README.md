@@ -1,16 +1,10 @@
 # entertainmentui
 
-A new Flutter project.
+Just a ui for entertainment app
 
-## Getting Started
+# Screenshot  
+![Screenshot_20210504-205755](https://user-images.githubusercontent.com/63007835/117036196-cde8a000-ad22-11eb-9b16-b13b09f7057c.jpg)
+![Screenshot_20210504-210025](https://user-images.githubusercontent.com/63007835/117036225-d345ea80-ad22-11eb-93ee-b98ec8651966.jpg)
+![Screenshot_20210504-205832](https://user-images.githubusercontent.com/63007835/117036235-d4771780-ad22-11eb-814f-e94246986dbe.jpg)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
